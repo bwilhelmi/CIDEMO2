@@ -17,7 +17,7 @@
 	    
 	    <br/>
 	   
-	    <div class="container" style="background-color:green">
+	    <div class="container">
 	    <form class="form-inline" role="form">
 		  <div class="form-group">
 		    <div class="input-group">
