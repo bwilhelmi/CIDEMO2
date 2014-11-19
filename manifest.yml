@@ -1,6 +1,6 @@
 applications:
   .:
-   name: CIDEMO1
+   name: CIDEMO2
    mem: 12M
    buildpack: https://github.com/ActiveState/stackato-buildpack-python
    services:
